@@ -6,6 +6,7 @@ class Pythia8226 < Formula
   sha256 "8ff4281bce9d22b17f1ec88e9e9353e8172512d5ef96296ace9486860e9ed2c9"
 
   depends_on "hepmc"
+  depends_on "fastjet"
   depends_on "lhapdf"
   depends_on "boost"
 
