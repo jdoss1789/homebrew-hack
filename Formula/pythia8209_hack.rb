@@ -1,9 +1,9 @@
 class Pythia8209Hack < Formula
   desc "Monte Carlo event generator"
   homepage "https://github.com/jdoss1789"
-  url "https://github.com/jdoss1789/homebrew-hack/raw/master/Packages/pythia8209_hack.tgz"
+  url "https://github.com/jdoss1789/homebrew-hep/raw/master/Packages/pythia8209_hack.tgz"
   version "8.209"
-  sha256 "152c190bf9da22b438593ae7eb77a751547a5d0eb3e87d7cc09ec2ea04385e76"
+  sha256 "ffdf737924f6f8ac67951ac850a5dfb1d1603358a4a746412229a65100120ff8"
 
   depends_on "hepmc"
   depends_on "fastjet"
