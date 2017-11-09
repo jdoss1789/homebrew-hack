@@ -1,4 +1,4 @@
-class Pythia < Formula
+class Pythia8.226 < Formula
   desc "Monte Carlo event generator"
   homepage "https://pythia8.hepforge.org"
   url "http://home.thep.lu.se/~torbjorn/pythia8/pythia8226.tgz"
