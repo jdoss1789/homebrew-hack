@@ -3,7 +3,7 @@ class Pythia8209Hack < Formula
   homepage "https://github.com/jdoss1789"
   url "https://github.com/jdoss1789/homebrew-hack/raw/master/Packages/pythia8209_hack.tgz"
   version "8.209"
-  sha256 "0795c889e8872952779c0f168073f33290bfef7c83bd479c50666efe2b1f7865"
+  sha256 "152c190bf9da22b438593ae7eb77a751547a5d0eb3e87d7cc09ec2ea04385e76"
 
   depends_on "hepmc"
   depends_on "fastjet"
