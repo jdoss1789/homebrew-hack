@@ -15,6 +15,7 @@ class Pythia8226 < Formula
       --prefix=#{prefix}
       --enable-shared
       --with-hepmc2=#{Formula["hepmc"].opt_prefix}
+      --with-fastjet3=#{Formula["fastjet"].opt_prefix}
       --with-lhapdf6=#{Formula["lhapdf"].opt_prefix}
       --with-boost=#{Formula["boost"].opt_prefix}
     ]
