@@ -3,7 +3,7 @@ class Pythia8230Revised < Formula
   homepage "https://github.com/jdoss1789"
   url "https://github.com/jdoss1789/homebrew-hep/raw/master/Packages/pythia8230_revised.tgz"
   version "8.230"
-  sha256 "332fad0ed4f12e6e0cb5755df0ae175329bc16bfaa2ae472d00994ecc99cd78d"
+  sha256 "f9cab1ab44bd0dd413116ab78afd74fd2fa858fb000a20cc5a2ca61c27d48006"
 
   depends_on "hepmc"
   depends_on "fastjet"
