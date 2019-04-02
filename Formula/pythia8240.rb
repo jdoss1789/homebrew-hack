@@ -3,7 +3,7 @@ class Pythia8240 < Formula
   homepage "https://pythia8.hepforge.org"
   url "http://home.thep.lu.se/~torbjorn/pythia8/pythia8240.tgz"
   version "8.240"
-  sha256 "e82f0d6165a8250a92e6aa62fb53201044d8d853add2fdad6d3719b28f7e8e9d"
+  sha256 "d27495d8ca7707d846f8c026ab695123c7c78c7860f04e2c002e483080418d8d"
 
   depends_on "hepmc"
   depends_on "fastjet"
