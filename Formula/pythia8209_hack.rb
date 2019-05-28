@@ -1,5 +1,5 @@
 class Pythia8209Hack < Formula
-  desc "Monte Carlo event generator"
+  desc "Monte Carlo Event Generator"
   homepage "https://github.com/jdoss1789"
   url "https://github.com/jdoss1789/homebrew-hep/raw/master/Packages/pythia8209_hack.tgz"
   version "8.209"

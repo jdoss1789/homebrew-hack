@@ -1,5 +1,5 @@
 class Pythia8240 < Formula
-  desc "Monte Carlo event generator"
+  desc "Monte Carlo Event Generator"
   homepage "https://pythia8.hepforge.org"
   url "http://home.thep.lu.se/~torbjorn/pythia8/pythia8240.tgz"
   version "8.240"
