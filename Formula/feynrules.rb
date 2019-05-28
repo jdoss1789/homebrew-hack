@@ -1,4 +1,4 @@
-class Feynrules < Formula
+class FeynRules < Formula
   desc "Mathematica Package"
   homepage "https://feynrules.irmp.ucl.ac.be/"
   url "http://feynrules.irmp.ucl.ac.be/downloads/feynrules-current.tar.gz"
