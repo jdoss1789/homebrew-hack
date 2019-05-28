@@ -10,7 +10,6 @@ class FeynRules < Formula
                           "--disable-dependency-tracking",
                           "--disable-silent-rules",
                           "--prefix=#{prefix}"
-    system "make", "install"
   end
 
   test do
