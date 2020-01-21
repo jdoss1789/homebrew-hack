@@ -7,7 +7,6 @@ class Madgraph5 < Formula
   bottle :unneeded
 
   depends_on "fastjet"
-  depends_on "gcc" # for gfortran
 
   def install
     # fix broken dynamic links
